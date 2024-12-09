@@ -9,7 +9,7 @@ export default function Home() {
           className="bg-blue-400 p-2 text-white font-semibold mx-auto"
           href={"/about"}
         >
-          ir Inicio
+          ir Inicio de
         </Link>
       </main>
     </div>
